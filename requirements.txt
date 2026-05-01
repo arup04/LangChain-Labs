@@ -1,2 +1,5 @@
 langchain
 dotenv
+langchain_community
+langchain-groq
+langchain-google-genai
